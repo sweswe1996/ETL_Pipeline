@@ -25,13 +25,13 @@ ETL_Pipeline/
     ├── books.json
     ├── books.xlsx
     ├── books.db
-    └── output.log
+    └── pipeline.log
 ```
 
 ## Getting Started
 
 ```bash
-git clone https://github.com/yourusername/ETL_Pipeline.git
+git clone https://github.com/sweswe1996/ETL_Pipeline.git
 cd ETL_Pipeline
 pip install -r requirements.txt
 python main.py
